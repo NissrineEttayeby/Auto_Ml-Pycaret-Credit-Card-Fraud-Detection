@@ -1,17 +1,18 @@
 # Pycaret 
 
 
+
 ![image](https://user-images.githubusercontent.com/108592629/234149627-201787e1-fed1-4466-907a-0911608576ab.png)
 
 
 PyCaret is a workflow automation tool for supervised and unsupervised machine learning. It is organized into six modules and each module has a set of functions available to perform some specific action.Each function takes an input and returns an output, which in most cases is a trained machine learning model. Modules available as of the second release are:
 
-Classification
-Regression
-Clustering
-Anomaly Detection
-Natural Language Processing
-Association Rule Mining
+>Classification
+>Regression
+>Clustering
+>Anomaly Detection
+>Natural Language Processing
+>Association Rule Mining
 
 
 
