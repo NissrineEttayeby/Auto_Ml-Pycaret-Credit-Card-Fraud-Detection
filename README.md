@@ -7,12 +7,12 @@
 
 PyCaret is a workflow automation tool for supervised and unsupervised machine learning. It is organized into six modules and each module has a set of functions available to perform some specific action.Each function takes an input and returns an output, which in most cases is a trained machine learning model. Modules available as of the second release are:
 
->Classification
->Regression
->Clustering
->Anomaly Detection
->Natural Language Processing
->Association Rule Mining
+Classification
+Regression
+Clustering
+Anomaly Detection
+Natural Language Processing
+Association Rule Mining
 
 
 
@@ -22,14 +22,14 @@ PyCaret is a workflow automation tool for supervised and unsupervised machine le
 Installing PyCaret is simple through pip and it takes only a few minutes. PyCaret's default installation only installs hard dependencies as listed in the requirements.txt file on the repo.
 
 
-*pip install pycaret*
+> *pip install pycaret*
 
 
 
 #### To install the full version:
 
 
-*pip install pycaret[full]*
+> *pip install pycaret[full]*
 
 
 
@@ -52,6 +52,6 @@ It is important that credit card companies are able to recognize fraudulent cred
 
 The dataset contains transactions made by credit cards.It contains only numerical input variables which are the result of a PCA transformation. Unfortunately, due to confidentiality issues, we cannot provide the original features and more background information about the data. Features V1, V2, … V28 are the principal components obtained with PCA, the only features which have not been transformed with PCA are 'Time' and 'Amount'. Feature 'Time' contains the seconds elapsed between each transaction and the first transaction in the dataset. The feature 'Amount' is the transaction Amount, this feature can be used for example-dependant cost-sensitive learning. Feature 'Class' is the response variable and it takes value 1 in case of fraud and 0 otherwise.
 
-## Comparaison between models
+## Comparaison between models using pycaret
 
 ![models comparaison](https://user-images.githubusercontent.com/108592629/234150135-5a1ffb8f-47ce-4292-8703-31d1ec21fafd.png)
