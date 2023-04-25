@@ -18,23 +18,15 @@ Association Rule Mining
 
 # Installing PyCaret
 
-
 Installing PyCaret is simple through pip and it takes only a few minutes. PyCaret's default installation only installs hard dependencies as listed in the requirements.txt file on the repo.
 
-
-> *pip install pycaret*
-
-
+``pip install pycaret``
 
 #### To install the full version:
 
-
-> *pip install pycaret[full]*
-
-
+``pip install pycaret[full]``
 
 ### Features
-
 
 PyCaret is loaded with functionalities. You can go from processing your data to training models, and then deploying them on the cloud within a few lines of code.It has over 70 untrained models for supervised and unsupervised tasks :
 ![image](https://user-images.githubusercontent.com/108592629/234149701-e01b7bb6-5f5b-4d2b-931f-f391f0dffbfb.png)
