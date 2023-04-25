@@ -1,6 +1,6 @@
 # Pycaret 
 
-https://raw.githubusercontent.com/pycaret/pycaret/master/docs/images/logo.png
+![image](https://user-images.githubusercontent.com/108592629/234149627-201787e1-fed1-4466-907a-0911608576ab.png)
 
 PyCaret is a workflow automation tool for supervised and unsupervised machine learning. It is organized into six modules and each module has a set of functions available to perform some specific action.Each function takes an input and returns an output, which in most cases is a trained machine learning model. Modules available as of the second release are:
 
@@ -25,11 +25,12 @@ pip install pycaret[full]
 ### Features
 
 PyCaret is loaded with functionalities. You can go from processing your data to training models, and then deploying them on the cloud within a few lines of code.It has over 70 untrained models for supervised and unsupervised tasks :
-https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40abonia%2Fpycaret-for-machine-learning-3343fda42ad6&psig=AOvVaw0ySxO1Cu9q73OXDMWIY0K4&ust=1682468312432000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLi65-vfw_4CFQAAAAAdAAAAABAv
+![image](https://user-images.githubusercontent.com/108592629/234149701-e01b7bb6-5f5b-4d2b-931f-f391f0dffbfb.png)
 
 
 # Credit card fraud detection
-https://freeprojectsforall.com/wp-content/uploads/2017/10/cre.jpg
+
+![image](https://user-images.githubusercontent.com/108592629/234149733-8c503067-54df-477f-a654-91d9f0804cf4.png)
 
 ## Context 
 It is important that credit card companies are able to recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase
