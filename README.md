@@ -1,7 +1,3 @@
-# Pycaret 
-
-
-
 ![image](https://user-images.githubusercontent.com/108592629/234149627-201787e1-fed1-4466-907a-0911608576ab.png)
 
 
