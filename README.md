@@ -33,7 +33,8 @@ PyCaret is loaded with functionalities. You can go from processing your data to 
 
 
 
-# Project : >> Credit card fraud detection
+# Project : 
+>> Credit card fraud detection
 
 
 ## Context 
