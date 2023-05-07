@@ -24,7 +24,7 @@ Installing PyCaret is simple through pip and it takes only a few minutes. PyCare
 
 ### Features
 
-PyCaret is loaded with functionalities. You can go from processing your data to training models, and then deploying them on the cloud .It has over 70 untrained models for supervised and unsupervised tasks :
+PyCaret is loaded with functionalities. You can go from processing your data to training models, and then deploying them on the cloud.
 ![image](https://user-images.githubusercontent.com/108592629/234149701-e01b7bb6-5f5b-4d2b-931f-f391f0dffbfb.png)
 
 
